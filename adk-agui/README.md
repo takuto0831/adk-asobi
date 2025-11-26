@@ -18,3 +18,7 @@ litellm.exceptions.AuthenticationError: litellm.AuthenticationError: Authenticat
 ```
 export OPENAI_API_KEY="sk-proj-***"
 ```
+
+- chatで2回目のやり取りをしようとすると止まる
+
+<img width="1468" height="718" alt="スクリーンショット 2025-11-26 23 43 46" src="https://github.com/user-attachments/assets/57a42984-0ea5-465c-a535-98a4f88d704a" />
