@@ -6,3 +6,6 @@
 code
 - https://github.com/langchain-ai/langchain/blob/master/libs/langchain_v1/langchain/agents/middleware/human_in_the_loop.py
 - https://github.com/langchain-ai/docs/blob/main/src/oss/langchain/human-in-the-loop.mdx
+
+公式
+- https://docs.langchain.com/oss/python/langchain/human-in-the-loop#%E2%9C%85-approve
